@@ -138,7 +138,7 @@ This entire project is licensed under
 [Creative Commons Attribution-NoDerivatives 4.0 International License](LICENSE.txt).
 
 Under this license, you are allowed to use the image for any means AS LONG AS
-YOU **MUST** attribute back to the arist(s) as follows:
+YOU **MUST** attribute back to the artist(s) as follows:
 
 ```
 --------------------------------------------------------------------------------
